@@ -114,3 +114,52 @@ jakarta.xml.bind.JAXBException: null
 2022-01-05 16:10:34.854 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
 2022-01-05 16:10:35.905 [main] ERROR h.n.p.t.p.XmlGameSaveRepository - Error while saving gamestate to XML
 jakarta.xml.bind.JAXBException: null
+2022-01-05 16:30:57.642 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:30:59.683 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:30:59.683 [main] INFO  h.n.p.torpedo.service.CommandHandler - Unknown command
+2022-01-05 16:30:59.691 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:30:59.700 [main] INFO  h.n.p.torpedo.ui.CharMapPrinter - Printing charmap
+2022-01-05 16:30:59.730 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:31:01.222 [main] ERROR h.n.p.t.p.XmlGameSaveRepository - Error while saving gamestate to XML
+jakarta.xml.bind.JAXBException: null
+2022-01-05 16:33:53.934 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:34:17.239 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:34:19.266 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:34:19.266 [main] INFO  h.n.p.torpedo.service.CommandHandler - Unknown command
+2022-01-05 16:34:19.277 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:34:19.286 [main] INFO  h.n.p.torpedo.ui.CharMapPrinter - Printing charmap
+2022-01-05 16:34:19.314 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:34:20.231 [main] ERROR h.n.p.t.p.XmlGameSaveRepository - Error while saving gamestate to XML
+jakarta.xml.bind.JAXBException: null
+2022-01-05 16:46:16.759 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:46:18.798 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:46:18.799 [main] INFO  h.n.p.torpedo.service.CommandHandler - Unknown command
+2022-01-05 16:46:18.808 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:46:18.819 [main] INFO  h.n.p.torpedo.ui.CharMapPrinter - Printing charmap
+2022-01-05 16:46:18.916 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:46:20.332 [main] ERROR h.n.p.t.p.XmlGameSaveRepository - Error while saving gamestate to XML
+jakarta.xml.bind.JAXBException: null
+2022-01-05 16:47:28.394 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:47:30.423 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:47:30.423 [main] INFO  h.n.p.torpedo.service.CommandHandler - Unknown command
+2022-01-05 16:47:30.430 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:47:30.438 [main] INFO  h.n.p.torpedo.ui.CharMapPrinter - Printing charmap
+2022-01-05 16:47:30.460 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:47:31.433 [main] ERROR h.n.p.t.p.XmlGameSaveRepository - Error while saving gamestate to XML
+jakarta.xml.bind.JAXBException: null
+2022-01-05 16:48:56.334 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:48:58.378 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:48:58.379 [main] INFO  h.n.p.torpedo.service.CommandHandler - Unknown command
+2022-01-05 16:48:58.388 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:48:58.402 [main] INFO  h.n.p.torpedo.ui.CharMapPrinter - Printing charmap
+2022-01-05 16:48:58.440 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:48:59.538 [main] ERROR h.n.p.t.p.XmlGameSaveRepository - Error while saving gamestate to XML
+jakarta.xml.bind.JAXBException: null
+2022-01-05 16:59:16.718 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:59:18.784 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:59:18.784 [main] INFO  h.n.p.torpedo.service.CommandHandler - Unknown command
+2022-01-05 16:59:18.793 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:59:18.800 [main] INFO  h.n.p.torpedo.ui.CharMapPrinter - Printing charmap
+2022-01-05 16:59:18.826 [main] INFO  h.n.p.torpedo.service.MapGenerator - Generating map
+2022-01-05 16:59:19.862 [main] ERROR h.n.p.t.p.XmlGameSaveRepository - Error while saving gamestate to XML
+jakarta.xml.bind.JAXBException: null
