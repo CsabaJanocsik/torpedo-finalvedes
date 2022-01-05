@@ -1,0 +1,11 @@
+hu\nye\progtech\torpedo\service\CommandHandlerTest.class
+service\GameStateTest.class
+hu\nye\progtech\torpedo\CharMapTest.class
+hu\nye\progtech\torpedo\service\EnemyTest.class
+persistence\XmlGameSaveRepositoryTest.class
+service\ShipValidatorTest.class
+persistence\PlayerScoreRepositoryTest.class
+service\InputReaderTest.class
+hu\nye\progtech\torpedo\service\MapGeneratorTest.class
+service\MapGeneratorTest.class
+hu\nye\progtech\torpedo\service\exception\CoordinateExceptionTest.class
